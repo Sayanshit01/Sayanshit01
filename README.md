@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayanshit01" alt="sayanshit01" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfoliosayan.000webhostapp.com/](https://portfoliosayan.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [https://sayanshit01.github.io/portfolio_Sayan/](https://sayanshit01.github.io/portfolio_Sayan/)
 
 - 📫 How to reach me **ssayanshit2017@gmail.com**
 
